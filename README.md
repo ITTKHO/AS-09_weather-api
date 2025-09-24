@@ -1,5 +1,7 @@
 <h1>README — แอพสภาพอากาศ (Flutter + http + provider + Open-Meteo)</h1>
 
+#อิทธิพล โคตา 66543210035-2
+
 <p>โปรเจกต์ตัวอย่างนี้สาธิตการดึง สภาพอากาศปัจจุบัน / รายชั่วโมง / รายวัน 7 วัน จาก Open-Meteo API แล้วแสดงผลด้วย Flutter โดยแยกเป็นชั้น data / models / services / providers / UI อย่างเป็นระเบียบ พร้อมปุ่มกรอก latitude/longitude เพื่อเปลี่ยนพิกัดได้ทันที</p>
 
 <span>สารบัญ</span>
